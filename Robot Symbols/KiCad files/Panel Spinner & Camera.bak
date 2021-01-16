@@ -1,0 +1,82 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Robot_Parts:MA3_ABS_ENC U?
+U 1 1 5FECDB8E
+P 7950 1400
+F 0 "U?" H 8136 1369 50  0000 L CNN
+F 1 "MA3_ABS_ENC" H 8136 1278 50  0000 L CNN
+F 2 "" H 7950 1650 50  0001 C CNN
+F 3 "" H 7950 1650 50  0001 C CNN
+	1    7950 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Robot_Parts:Color_Sensor U?
+U 1 1 5FECDCD8
+P 2100 6600
+F 0 "U?" H 2106 6975 50  0000 C CNN
+F 1 "Color_Sensor" H 2106 6884 50  0000 C CNN
+F 2 "" H 2100 6850 50  0001 C CNN
+F 3 "" H 2100 6850 50  0001 C CNN
+	1    2100 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Robot_Parts:NEO_550 M?
+U 1 1 5FECDDAC
+P 2950 2600
+F 0 "M?" H 3027 3025 50  0000 C CNN
+F 1 "NEO_550" H 3027 2934 50  0000 C CNN
+F 2 "" H 2950 2850 50  0001 C CNN
+F 3 "" H 2950 2850 50  0001 C CNN
+	1    2950 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Robot_Parts:NEO_550 M?
+U 1 1 5FECDDEE
+P 1700 3850
+F 0 "M?" H 1777 4275 50  0000 C CNN
+F 1 "NEO_550" H 1777 4184 50  0000 C CNN
+F 2 "" H 1700 4100 50  0001 C CNN
+F 3 "" H 1700 4100 50  0001 C CNN
+	1    1700 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Robot_Parts:SPARK_MAX U?
+U 1 1 5FECDE97
+P 4600 2750
+F 0 "U?" H 5241 2796 50  0000 L CNN
+F 1 "SPARK_MAX" H 5241 2705 50  0000 L CNN
+F 2 "" H 4300 3100 50  0001 C CNN
+F 3 "" H 4300 3100 50  0001 C CNN
+	1    4600 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Robot_Parts:SPARK_MAX U?
+U 1 1 5FECDEF5
+P 5050 4100
+F 0 "U?" H 5691 4146 50  0000 L CNN
+F 1 "SPARK_MAX" H 5691 4055 50  0000 L CNN
+F 2 "" H 4750 4450 50  0001 C CNN
+F 3 "" H 4750 4450 50  0001 C CNN
+	1    5050 4100
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
